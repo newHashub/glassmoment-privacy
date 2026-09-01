@@ -7,3 +7,5 @@ Static, bilingual privacy and support pages for GlassMoment.
 - App source code and user photos are not part of this repository.
 
 Support: 13413629496@163.com
+
+Developer: 郑海天
